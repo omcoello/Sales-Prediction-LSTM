@@ -1,2 +1,2 @@
 # SalesPredictionLSTM
-Develop a sale prediction code using the artificial neural network LSTM
+Develop a sales prediction code using artificial neural network LSTM.
